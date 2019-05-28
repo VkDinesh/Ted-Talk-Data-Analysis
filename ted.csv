@@ -1,0 +1,2 @@
+# What dataset are we using?
+ted.csv is the [TED Talks](https://raw.githubusercontent.com/justmarkham/pycon-2019-tutorial/master/ted.csv) dataset from Kaggle Datasets, made available under the CC BY-NC-SA 4.0 license.
