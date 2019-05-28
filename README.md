@@ -14,3 +14,7 @@ Read the file into pandas using the read_csv() function to make sure everything 
 # How do I download the CSV file from GitHub?
 
 If you want to directly download only the CSV file, right click on the following link and select "Save As": [ted.csv](https://raw.githubusercontent.com/VkDinesh/Ted-Talk-Data-Analysis/master/ted.csv)
+
+# Jupyter Notebook
+
+[ted analysis.ipynb](ted analysis.ipynb)
