@@ -10,3 +10,7 @@ ted.csv is the [TED Talks](https://www.kaggle.com/rounakbanik/ted-talks) dataset
 Make sure that pandas and matplotlib are installed on your computer. (The easiest way to install pandas and matplotlib is by downloading the Anaconda distribution.)
 Download the CSV file from this repository.
 Read the file into pandas using the read_csv() function to make sure everything is working.
+
+# How do I download the CSV file from GitHub?
+
+If you want to directly download only the CSV file, right click on the following link and select "Save As": [ted.csv]()
