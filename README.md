@@ -17,4 +17,4 @@ If you want to directly download only the CSV file, right click on the following
 
 # Jupyter Notebook
 
-[link for jupyter notebook](https://github.com/VkDinesh/Ted-Talk-Data-Analysis/blob/master/ted%20analysis.ipynb)
+[jupyter notebook](https://github.com/VkDinesh/Ted-Talk-Data-Analysis/blob/master/ted%20analysis.ipynb)
