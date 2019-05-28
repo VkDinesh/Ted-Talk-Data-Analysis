@@ -6,4 +6,7 @@ In this tutorial, you'll use pandas to answer questions about a real-world datas
 # What dataset are we using?
 ted.csv is the [TED Talks](https://www.kaggle.com/rounakbanik/ted-talks) dataset from Kaggle Datasets, made available under the CC BY-NC-SA 4.0 license.
 
-
+# What do I need to do before the tutorial?
+Make sure that pandas and matplotlib are installed on your computer. (The easiest way to install pandas and matplotlib is by downloading the Anaconda distribution.)
+Download the CSV file from this repository.
+Read the file into pandas using the read_csv() function to make sure everything is working.
