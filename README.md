@@ -17,4 +17,4 @@ If you want to directly download only the CSV file, right click on the following
 
 # Jupyter Notebook
 
-[ted analysis.ipynb](ted analysis.ipynb)
+[ted](ted analysis.ipynb)
